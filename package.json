@@ -2,7 +2,7 @@
   "dependencies": {
     "postprocessing": "^6.8.3",
     "scss": "^0.2.4",
-    "three": "^0.109.0",
+    "three": "^0.137.0",
     "three-orbit-controls": "^82.1.0"
   },
   "devDependencies": {
